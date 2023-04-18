@@ -1,6 +1,6 @@
 ### About me
-* 🇸🇪
-* 19
+* From 🇸🇪
+* I'm 19 years old
 * Software Engineering student
 
 ---
