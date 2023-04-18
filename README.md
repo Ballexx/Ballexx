@@ -1,7 +1,7 @@
 ### About me
-🇸🇪
-19
-Software Engineering student
+* 🇸🇪
+* 19
+* Software Engineering student
 
 ### 💻 Most used languages
 
