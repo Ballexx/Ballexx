@@ -1,8 +1,7 @@
 ### About me
 * From 🇸🇪
-* I'm 19 years old
-* Software Engineering student
-
+* I'm 20 years old
+* I currently work as an IT-technician
 ---
 
 ### 💻 Most used languages
