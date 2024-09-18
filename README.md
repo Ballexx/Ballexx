@@ -6,7 +6,7 @@ I mostly do systems programming and backend programming, with the occasional fro
 
 ---
 
-### 💻 Languages I mostly use
+### 💻 Languages I use
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="60" height="60"/>&nbsp;
