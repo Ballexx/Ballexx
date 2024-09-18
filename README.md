@@ -1,10 +1,12 @@
 ### About me
 * From Sweden
 * I'm 21 years old
-* I currently work as an IT-technician
+
+I mostly do systems programming and backend programming, with the occasional frontend
+
 ---
 
-### 💻 Languages I use
+### 💻 Languages I mostly use
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="60" height="60"/>&nbsp;
