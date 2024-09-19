@@ -1,9 +1,6 @@
 ### About me
 * From Sweden
 * I'm 21 years old
-
-I mostly do systems programming and backend programming, with the occasional frontend
-
 ---
 
 ### 💻 Languages I use
