@@ -1,6 +1,6 @@
 ### About me
 * From Sweden
-* I'm 21 years old
+* I'm 22 years old
 * I currently work in tech
 ---
 
