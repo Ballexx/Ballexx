@@ -14,4 +14,4 @@
 
 ---
 
-<img src="https://miro.medium.com/1*Ubum2rxFux0wfwKv6AtNuA.png" title="C" alt="C" width="375" height="500"/>
+<img src="https://miro.medium.com/1*Ubum2rxFux0wfwKv6AtNuA.png" title="C" alt="C" width="188" height="250"/>
