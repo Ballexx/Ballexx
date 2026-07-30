@@ -14,4 +14,4 @@
 
 ###
 
-<img src="https://rustacean.net/assets/rustacean-flat-happy.png" title="C" alt="C" width="20" height="10"/>&nbsp; REWRITE IT IN RUST <img src="https://rustacean.net/assets/rustacean-flat-happy.png" title="C" alt="C" width="20" height="10"/>&nbsp;
+<img src="https://rustacean.net/assets/rustacean-flat-happy.png" title="C" alt="C" width="30" height="15"/>&nbsp; REWRITE IT IN RUST <img src="https://rustacean.net/assets/rustacean-flat-happy.png" title="C" alt="C" width="30" height="15"/>&nbsp;
